@@ -1,0 +1,5 @@
+it\andreaLacagnina\dao\ContactDao.class
+it\andreaLacagnina\interfaces\ContactDaoInterface.class
+it\andreaLacagnina\models\ContactBean.class
+it\andreaLacagnina\services\ContactService.class
+it\andreaLacagnina\contactManager\Manager.class
