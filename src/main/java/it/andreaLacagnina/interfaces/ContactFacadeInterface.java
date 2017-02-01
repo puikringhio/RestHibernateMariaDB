@@ -1,8 +1,9 @@
 package it.andreaLacagnina.interfaces;
 
-
-
-public interface ContactDaoInterface {
+/**
+ * Created by utente on 01/02/2017.
+ */
+public interface ContactFacadeInterface {
 
     public void addContact(String id, String name, String email);
     public void deleteContact(String id);
